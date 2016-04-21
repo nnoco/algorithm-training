@@ -18,7 +18,7 @@
 - 2016. 4. 22
 	- Power of four
 	- Power of three
-	-Power of two
+	- Power of two
 
 ---
   
