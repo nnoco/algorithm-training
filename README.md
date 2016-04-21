@@ -11,12 +11,18 @@
   
   
 ## Leetcode
-- Add Two Numbers
-- Counting Bits
-- Two Sum - 현재 O(n^2).. O(n)으로 개선 필요, Hashtable 이
-
+- 2016. 4. 21
+	- Add Two Numbers
+	- Counting Bits
+	- Two Sum - 현재 O(n^2).. O(n)으로 개선 필요, Hashtable 이용?
+- 2016. 4. 22
+	- Power of four
+	- Power of three
+	-Power of two
 
 ---
+  
+  
 ## Algorithm Sites
 
 ### 한국어
@@ -28,7 +34,7 @@
 - 오일러 프로젝트 : http://euler.synap.co.kr 
 - 코딩 도장 : http://codingdojo.kr 
 - 트라이캐치 : http://www.try-cat.ch  
-
+  
 ### 영어
 - Leet code : http://www.leetcode.com
 - 북경대 : http://poj.org 
@@ -39,6 +45,6 @@
 - Google Codejam : https://code.google.com/codejam 
 - Learn Street : https://learnstreet.com 
 - Code Chef : http://codechef.com 
-
+  
 ### 기타
 - 알고리즘 애니메이션 : http://www.sorting-algorithms.com
