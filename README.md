@@ -12,13 +12,17 @@
   
 ## Leetcode
 - 2016. 4. 21
-	- Add Two Numbers
-	- Counting Bits
-	- Two Sum - 현재 O(n^2).. O(n)으로 개선 필요, Hashtable 이용?
+	- [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+	- [Counting Bits](https://leetcode.com/problems/counting-bits/)
+	- [Two Sum](https://leetcode.com/problems/two-sum) - 현재 O(n^2).. O(n)으로 개선 필요, Hashtable 이용?
 - 2016. 4. 22
-	- Power of four
-	- Power of three
-	- Power of two
+	- [Power of four](https://leetcode.com/problems/power-of-four)
+	- [Power of three](https://leetcode.com/problems/power-of-three)
+	- [Power of two](https://leetcode.com/problems/power-of-two)
+- 2016. 4. 23
+	- [Reverse String](https://leetcode.com/problems/reverse-string/)
+	- [Integer Break](https://leetcode.com/problems/integer-break/)
+	- 
 
 ---
   
