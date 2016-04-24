@@ -23,6 +23,8 @@
 	- [Reverse String](https://leetcode.com/problems/reverse-string/)
 	- [Integer Break](https://leetcode.com/problems/integer-break/)
 	- [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
+- 2016. 4. 25
+	- [First Bad Version](https://leetcode.com/problems/first-bad-version)
 
 ---
   
