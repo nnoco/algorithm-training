@@ -12,19 +12,20 @@
   
 ## Leetcode
 - 2016. 4. 21
-	- [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
-	- [Counting Bits](https://leetcode.com/problems/counting-bits/)
-	- [Two Sum](https://leetcode.com/problems/two-sum) - 현재 O(n^2).. O(n)으로 개선 필요, Hashtable 이용?
+	- [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+	- [338. Counting Bits](https://leetcode.com/problems/counting-bits/)
+	- [1. Two Sum](https://leetcode.com/problems/two-sum) - 현재 O(n^2).. O(n)으로 개선 필요, Hashtable 이용?
 - 2016. 4. 22
-	- [Power of four](https://leetcode.com/problems/power-of-four)
-	- [Power of three](https://leetcode.com/problems/power-of-three)
-	- [Power of two](https://leetcode.com/problems/power-of-two)
+	- [342. Power of four](https://leetcode.com/problems/power-of-four)
+	- [326. Power of three](https://leetcode.com/problems/power-of-three)
+	- [231. Power of two](https://leetcode.com/problems/power-of-two)
 - 2016. 4. 23
-	- [Reverse String](https://leetcode.com/problems/reverse-string/)
-	- [Integer Break](https://leetcode.com/problems/integer-break/)
-	- [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
+	- [343. Integer Break](https://leetcode.com/problems/integer-break/)
+	- [344. Reverse String](https://leetcode.com/problems/reverse-string/)
+	- [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 - 2016. 4. 25
-	- [First Bad Version](https://leetcode.com/problems/first-bad-version)
+	- [278. First Bad Version](https://leetcode.com/problems/first-bad-version)
+	- [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
 
 ---
   
