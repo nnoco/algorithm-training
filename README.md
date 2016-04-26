@@ -28,6 +28,8 @@
 	- [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
 - 2016. 4. 26
 	- [258. Add Digits](https://leetcode.com/problems/add-digits/)
+- 2016. 4. 27
+	- [202. Happy Number](https://leetcode.com/problems/happy-number/)
 
 ---
   
