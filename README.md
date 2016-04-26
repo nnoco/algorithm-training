@@ -26,6 +26,8 @@
 - 2016. 4. 25
 	- [278. First Bad Version](https://leetcode.com/problems/first-bad-version)
 	- [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
+- 2016. 4. 26
+	- [258. Add Digits](https://leetcode.com/problems/add-digits/)
 
 ---
   
