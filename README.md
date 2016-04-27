@@ -30,6 +30,7 @@
 	- [258. Add Digits](https://leetcode.com/problems/add-digits/)
 - 2016. 4. 27
 	- [202. Happy Number](https://leetcode.com/problems/happy-number/)
+	- [263. Ugly Number](https://leetcode.com/problems/ugly-number/)
 
 ---
   
