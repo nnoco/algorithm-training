@@ -32,7 +32,8 @@
 	- [202. Happy Number](https://leetcode.com/problems/happy-number/)
 	- [263. Ugly Number](https://leetcode.com/problems/ugly-number/)
 - 2016. 5. 2
-	- [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/]
+	- M [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/]
+	- H [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/]
 ---
   
   
